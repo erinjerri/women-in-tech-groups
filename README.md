@@ -63,7 +63,7 @@ This is NOT a complete list by any means, but here are some I am or of which I h
 
 ### Other Conference/Professional Groups 
 * [Anita Borg Institute - Grace Hopper Conference] - (https://anitab.org/)
-* [Bay Area Girl Geek Dinners - now Girl Geek X] -(https://swe.org/)
+* [Bay Area Girl Geek Dinners - now Girl Geek X] -(https://girlgeek.io/)
 * [Society of Women Engineers] - https://swe.org/
 * [Tech Intersections] - Women of Color in Tech Conference - [https://techintersections.org](https://techintersections.org/) 
   
