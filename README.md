@@ -20,10 +20,14 @@ This is NOT a complete list by any means, but here are some I am or of which I h
 ### By Subfield
 
 ### AI/ML/DS
-* [PyLadies] -(https://www.pyladies.com/) - Slack
-* [R-Ladies] - (https://www.rladies.org/] Slack
-* [Women in Machine Learning Data Science - WiMLDS] (https://wimlds.org/) - Slack 
-* [Women in Machine Learning - affiliated with NeuralIPs] - (https://www.wiml.org/)
+* [PyLadies] -(https://www.pyladies.com/)
+* // Active Slack Channel
+* [R-Ladies] - (https://www.rladies.org/]
+* // Active Slack Channel
+* [Women in Machine Learning Data Science - WiMLDS] (https://wimlds.org/)
+* // Active Slack Channel
+* [Women in Machine Learning] - (https://www.wiml.org/)
+//  affiliated with NeuralIPs
 * [Women in AI] - (https://www.womeninai.co/)
 * [Women in AI Club] - (https://www.linkedin.com/company/women-in-ai-club/) - WhatsApp group active
 * [Women in Big Data] - (https://www.womeninbigdata.org/)
@@ -46,17 +50,21 @@ This is NOT a complete list by any means, but here are some I am or of which I h
 // Founded by McKinsey alumni 
 * [SheTo] - (https://www.sheto.org/)
 // focuses on women executives and CTOs
-* [we3] - founder of the New Club created this organization - https://www.hello-we3.com/
-* [Meta Gamma Delta DAO] - (https://x.com/metagammadelta), 
+* [we3] - https://www.hello-we3.com/
+// founder of the New Club created this organization
+* [Meta Gamma Delta DAO] - (https://x.com/metagammadelta)
  // active Discord
 * [H.E.R. DAO] - (https://www.her-dao.xyz/)
-* [AthenaDAO] - focused on fertility and women's health - (https://www.athenadao.co/)
-* [The Bigger Pie] - Telegram - https://www.thebiggerpie.io/
+* [AthenaDAO] - (https://www.athenadao.co/)
+// focused on fertility and women's health
+* [The Bigger Pie] - https://www.thebiggerpie.io/
+  // Active Telegram Channel
 * [Women of Web3] - (https://www.womenofweb3.co/about)
 
 ### Hiring/Recruiting
 * [The New Club] - (https://www.thenewclub.fyi/)
-* [Leopard.FYI] - feel free to use my referral link - (https://leopard.fyi/engineer-signup/?mwr=c1e2d3be)
+* [Leopard.FYI] - (https://leopard.fyi/engineer-signup/?mwr=c1e2d3be)
+//  feel free to use my referral link
 
 ### Company Official
 * [Google Women TechMakers] - (https://developers.google.com/womentechmakers)
@@ -66,7 +74,8 @@ This is NOT a complete list by any means, but here are some I am or of which I h
 * [Bay Area Girl Geek Dinners - now Girl Geek X] -(https://girlgeek.io/)
 * [Society of Women Engineers] - https://swe.org/
 * [Tech Intersections] - Women of Color in Tech Conference - (https://techintersections.org/) 
-  
+// I was keynote speaker in 2023, please support this group of amazing organizers!
+
 ### Women Founders
 * [Female Founders Conference] - (YCombinator - https://events.ycombinator.com/ffc2024)
 // Application to enter the conference
